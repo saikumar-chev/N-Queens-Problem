@@ -40,13 +40,13 @@ Run the program
 
 ### Screenshots
 
-## Input Screen
+#### Input Screen
 ![image](https://github.com/user-attachments/assets/5df3404e-424b-4963-8516-2df55020c4e4)
 
-## Solving Process
+#### Solving Process
 ![image](https://github.com/user-attachments/assets/0a38db3e-982e-4e34-a1db-cdd91d69aa15)
 
-## Final Solution
+#### Final Solution
 ![image](https://github.com/user-attachments/assets/386244eb-344b-4c28-ba9d-50af99b042af)
 
 ### Technologies Used
